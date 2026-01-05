@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PostaEletronica id="Marco@gmail.com">
+    
+    
+
+
+
+<email id="f98f06f2-5ae0-45be-85f2-dba2b6679b13">
+        
+
+
+
+<mittente>Luca@gmail.com</mittente>
+        
+
+
+
+<destinatari>Marco@gmail.com</destinatari>
+        
+
+
+
+<argomento>ProvaConn</argomento>
+        
+
+
+
+<testo>222</testo>
+        
+
+
+
+<data>04-12-21 05:35:21</data>
+    
+
+
+
+</email>
+
+<email id="1da0527d-61f0-4669-b94d-4e3271109ed4">
+
+<mittente>Davide@gmail.com</mittente>
+
+<destinatari>Marco@gmail.com</destinatari>
+
+<argomento>Marco@gmail.com</argomento>
+
+<testo>Marco@gmail.com</testo>
+
+<data>08-12-21 06:34:28</data>
+
+</email>
+
+<email id="f2b92167-1231-4e24-8652-36e4a6836eab">
+
+<mittente>Luca@gmail.com</mittente>
+
+<destinatari>Marco@gmail.com</destinatari>
+
+<argomento>Marco@gmail.com</argomento>
+
+<testo>Marco@gmail.com</testo>
+
+<data>08-12-21 06:34:29</data>
+
+</email>
+
+<email id="ed6296d7-36df-4a2d-aaed-0c71457a52eb">
+<mittente>Davide@gmail.com</mittente>
+<destinatari>Marco@gmail.com</destinatari>
+<argomento>4345</argomento>
+<testo>543543</testo>
+<data>11-12-21 10:18:51</data>
+</email>
+</PostaEletronica>

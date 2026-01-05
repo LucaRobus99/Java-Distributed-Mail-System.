@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PostaEletronica id="Davide@gmail.com">
+
+<email id="3f8d0aaf-ded2-4f1d-8266-8ca80b6bb8d4">
+
+<mittente>Davide@gmail.com</mittente>
+
+<destinatari>Davide@gmail.com</destinatari>
+
+<argomento>213</argomento>
+
+<testo>213</testo>
+
+<data>13-12-21 16:19:31</data>
+
+</email>
+
+<email id="78460113-e0f5-4161-ba79-be2e67a70833">
+
+<mittente>ServerGmail@gmail.com</mittente>
+
+<destinatari>Davide@gmail.com</destinatari>
+
+<argomento>(NO REPLAY)Errore messaggio:22</argomento>
+
+<testo> Indirizzo non trovato
+Il tuo messaggio non è stato recapitato a David2e@gmail.com perché l'indirizzo risulta inesistente 
+---------- FORWARD del messaggio ----------
+Da: Davide@gmail.com
+A: David2e@gmail.com
+Data:Mon Dec 13 16:29:56 CET 2021
+Oggetto:22
+Testo:22
+</testo>
+
+<data>13-12-21 16:29:56</data>
+
+</email>
+
+<email id="b688663d-702c-4fa8-99d4-35db543a321a">
+
+<mittente>Luca@gmail.com</mittente>
+
+<destinatari>Davide@gmail.com</destinatari>
+
+<argomento>dada</argomento>
+
+<testo>1232ew</testo>
+
+<data>19-02-24 15:53:46</data>
+
+</email>
+
+<email id="a2d768a1-bc6e-4879-be48-8cb7b9126d51">
+<mittente>Luca@gmail.com</mittente>
+<destinatari>Davide@gmail.com</destinatari>
+<argomento>dsada</argomento>
+<testo>dasda</testo>
+<data>28-02-24 13:26:59</data>
+</email>
+</PostaEletronica>
