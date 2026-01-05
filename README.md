@@ -1,6 +1,4 @@
-Here is the updated and professionally polished `README.md` in English. I have incorporated the academic context, the technical focus on multithreading/JavaFX properties, and the specific project title requested.
 
----
 
 # 📧 Java Distributed Mail System
 
