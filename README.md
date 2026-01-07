@@ -88,7 +88,11 @@ The client application (`Client.java`) follows the MVC pattern.
 * `Davide@gmail.com`
 * `Marco@gmail.com`
 
+## 👥 Contributors
 
+* **Davide Robustelli** — [@xDavikx](https://github.com/xDavikx)
+* **Luca Robustelli** (Me)
+---
 
 ---
 
