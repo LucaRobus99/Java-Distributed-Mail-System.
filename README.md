@@ -91,7 +91,7 @@ The client application (`Client.java`) follows the MVC pattern.
 ## 👥 Contributors
 
 * **Davide Robustelli** — [@xDavikx](https://github.com/xDavikx)
-* **Luca Robustelli** (Me)
+* **Luca Robustelli** - [@LucaRobus99](https://github.com/LucaRobus99)
 ---
 
 ---
